@@ -1,0 +1,7 @@
+Enter the Number1: 6 
+Enter the number2: 12 
+the sum is: 18
+the difference is: -6
+the multiplication is: 72 
+the division is: 0
+the square is: 36
